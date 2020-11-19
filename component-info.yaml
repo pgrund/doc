@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "test doc"
+  name: test_doc
   description: "just testing"
   annotations:
     github.com/project-slug: "test/doc"
