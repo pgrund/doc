@@ -5,7 +5,7 @@ metadata:
   description: "just testing"
   annotations:
     github.com/project-slug: "test/doc"
-    backstage.io/techdocs-ref: github:https://github.com/test/doc
+    backstage.io/techdocs-ref: github:https://github.com/pgrund/doc
 spec:
   type: documentation
   lifecycle: experimental
